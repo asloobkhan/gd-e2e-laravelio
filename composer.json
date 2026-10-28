@@ -5,7 +5,6 @@
     "type": "project",
     "require": {
         "php": "^8.4",
-        "ext-ldap": "*",
         "algolia/algoliasearch-client-php": "^4.50.0",
         "algolia/scout-extended": "^5.0.0",
         "blade-ui-kit/blade-heroicons": "^2.3",
