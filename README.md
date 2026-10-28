@@ -177,5 +177,3 @@ Please review [our security policy](.github/SECURITY.md) on how to report securi
 ## License
 
 The MIT License. Please see [the license file](LICENSE.md) for more information.
-
-<!-- e2e paused push -->
